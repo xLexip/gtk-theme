@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=ZorinBlue-Dark
-Comment=The dark desktop theme with blue highlights for Zorin OS
+Name=Lexip's Theme
+Comment=The dark-blue desktop theme with blue highlights
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=ZorinBlue-Dark
-MetacityTheme=ZorinBlue-Dark
-IconTheme=ZorinBlue-Dark
+GtkTheme=Lexips-Theme
+MetacityTheme=Lexips-Theme
+IconTheme=Lexips-Theme
 CursorTheme=Adwaita
 ButtonLayout=:minimize,maximize,close
