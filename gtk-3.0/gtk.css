@@ -1844,9 +1844,9 @@ widgets main borders color on backdrop windows */
 /*
 these are pretty self explicative */
 @define-color placeholder_text_color #b38d00;
-@define-color warning_color #febc8d;
-@define-color error_color #e35d5d;
-@define-color success_color #45dcb3;
+@define-color warning_color #ffa500;
+@define-color error_color #b38d00;
+@define-color success_color #75c351;
 /*
 these colors are exported for the window manager and shouldn't be used in applications,
 read if you used those and something break with a version upgrade you're on your own... */
